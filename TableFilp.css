@@ -1,0 +1,19 @@
+table{
+    border: 30px solid cornflowerblue;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  td{
+    border: 1px solid orange;
+    width: 100px;
+    height: 100px;
+  }
+  .white {
+    background-color: white
+  }
+  .black{
+    background-color: black
+  }
+  h1{
+      text-align: center;
+  }
